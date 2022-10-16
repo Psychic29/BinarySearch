@@ -7,3 +7,7 @@ Binary Search is a searching algorithm used in a sorted array by repeatedly divi
 - Or if the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half.
 - Otherwise, narrow it to the upper half.
 - Repeatedly check from the second point until the value is found or the interval is empty.
+
+## Author
+
+[@Psychic29](https://github.com/Psychic29)
